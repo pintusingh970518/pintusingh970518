@@ -21,7 +21,6 @@ I am passionate about Python, Data Science, AI and Web Development.
 ## 🛠 Skills
 
 ### Languages
-
 - Python
 - HTML
 - CSS
@@ -29,18 +28,14 @@ I am passionate about Python, Data Science, AI and Web Development.
 - SQL
 
 ### Database
-
 - MySQL
-- MongoDB
 
 ### Data Science
-
 - NumPy
 - Pandas
 - Matplotlib
 
 ### Tools
-
 - VS Code
 - Git
 - GitHub
