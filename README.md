@@ -14,9 +14,7 @@ I am passionate about Python, Data Science, AI and Web Development.
 - 📊 NumPy, Pandas, Matplotlib
 - 🤖 AI Enthusiast
 - 🎯 Building Real Projects
-
 ---
-
 ## 🛠 Skills
 
 ### Languages
@@ -56,7 +54,7 @@ Email:
 pintusingh970518@gmail.com
 
 LinkedIn:
-[Your LinkedIn](https://www.linkedin.com/in/pintu-singh-65a603340/)
+[  LinkedIn](https://www.linkedin.com/in/pintu-singh-65a603340/)
 
 Portfolio:
 
