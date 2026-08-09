@@ -56,5 +56,5 @@ pintusingh970518@gmail.com
 LinkedIn:
 [  LinkedIn](https://www.linkedin.com/in/pintu-singh-65a603340/)
 
-Portfolio:[portfolio](https://calm-boba-acb72b.netlify.app/)
+Portfolio:[  portfolio](https://calm-boba-acb72b.netlify.app/)
 
