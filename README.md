@@ -51,7 +51,7 @@ I am passionate about Python, Data Science, AI and Web Development.
 ## 📫 Contact
 
 Email:
-pintusingh970518@gmail.com
+[  Email](pintusingh970518@gmail.com)
 
 LinkedIn:
 [  LinkedIn](https://www.linkedin.com/in/pintu-singh-65a603340/)
