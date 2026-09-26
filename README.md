@@ -10,9 +10,8 @@ I am passionate about Python, Data Science, AI and Web Development.
 - 🌱 Learning Data Science
 - 🐍 Python Developer
 - 🌐 HTML, CSS, JavaScript
-- 🗄️ MySQL & MongoDB
+- 🗄️ MySQL
 - 📊 NumPy, Pandas, Matplotlib
-- 🤖 AI Enthusiast
 - 🎯 Building Real Projects
 ---
 ## 🛠 Skills
